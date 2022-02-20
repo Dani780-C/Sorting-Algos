@@ -1,1 +1,4 @@
-# proiect_sd_sortari
+# Algoritmi de sortare
+
+
+
