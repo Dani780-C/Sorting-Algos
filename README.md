@@ -1,4 +1,4 @@
-# Sorting Algrithms // C++
+# Sorting Algorithms // C++
 
 In main file are five algorithms of sorting numbers:
 
